@@ -1,4 +1,4 @@
-# Documentation RESILIA-GRID
+# 📚 Documentation RESILIA-GRID
 
 Bienvenue dans la documentation technique du projet RESILIA-GRID. Cette documentation vise à fournir toutes les informations nécessaires pour comprendre, implémenter et contribuer au projet.
 
@@ -11,19 +11,19 @@ Bienvenue dans la documentation technique du projet RESILIA-GRID. Cette document
 - [API Reference](#api-reference)
 - [FAQ](#faq)
 
-## Vue d'ensemble
+## 🔍 Vue d'ensemble
 
 RESILIA-GRID est un système énergétique décentralisé combinant énergies renouvelables et intelligence artificielle pour créer un réseau résilient et décarboné. Le projet s'articule autour de cinq piliers fondamentaux:
 
-1. Production d'énergie hybride et décentralisée
-2. Stockage énergétique multicouche
-3. IA holistique "NeuroGrid"
-4. Microgrids résilients
-5. Plateforme collaborative de consommation "EnerShare"
+1. Production d'énergie hybride et décentralisée ☀️🌬️
+2. Stockage énergétique multicouche 🔋
+3. IA holistique "NeuroGrid" 🧠
+4. Microgrids résilients 🔄
+5. Plateforme collaborative de consommation "EnerShare" 👥
 
-## Architecture
+## 🏗️ Architecture
 
-![Architecture système](../assets/images/architecture-diagram.png)
+![Architecture système](../assets/images/architecture-diagram.svg)
 
 L'architecture de RESILIA-GRID repose sur une approche modulaire permettant l'évolutivité et l'adaptabilité du système. Elle est structurée en plusieurs couches:
 
@@ -39,35 +39,35 @@ Pour des détails spécifiques sur chaque composant, consultez les documents dé
 - [Diagrammes de flux](architecture/flow-diagrams.md)
 - [Mécanismes de sécurité](architecture/security-mechanisms.md)
 
-## Composants du système
+## ⚙️ Composants du système
 
-### Production Énergétique
+### 🌞 Production Énergétique
 - [Spécifications des panneaux solaires à pérovskite](components/perovskite-solar-specs.md)
 - [Intégration des turbines éoliennes à axe vertical](components/vertical-axis-turbines.md)
 - [Solutions de micro-hydroélectricité](components/micro-hydro.md)
 
-### Stockage Énergétique
+### 🔋 Stockage Énergétique
 - [Batteries à électrolyte solide](components/solid-electrolyte-batteries.md)
 - [Système de production et stockage d'hydrogène vert](components/green-hydrogen.md)
 - [Stockage thermique pour applications industrielles](components/thermal-storage.md)
 
-### NeuroGrid (IA)
+### 🧠 NeuroGrid (IA)
 - [Architecture de l'IA holistique](neurogrid/architecture.md)
 - [Modèles de prédiction météorologique](neurogrid/weather-prediction.md)
 - [Algorithmes d'équilibrage énergétique](neurogrid/energy-balancing.md)
 - [Système d'apprentissage fédéré](neurogrid/federated-learning.md)
 
-### Microgrids
+### 🔗 Microgrids
 - [Conception des microgrids autonomes](microgrids/autonomous-design.md)
 - [Protocoles d'interconnexion](microgrids/interconnection-protocols.md)
 - [Mécanismes de résilience](microgrids/resilience-mechanisms.md)
 
-### EnerShare
+### 👥 EnerShare
 - [Plateforme d'échange P2P](enershare/p2p-platform.md)
 - [Système de tarification dynamique](enershare/dynamic-pricing.md)
 - [Mécanismes de gamification](enershare/gamification.md)
 
-## Guides d'implémentation
+## 🛠️ Guides d'implémentation
 
 - [Guide d'installation](implementation/installation-guide.md)
 - [Configuration initiale](implementation/initial-setup.md)
@@ -75,7 +75,7 @@ Pour des détails spécifiques sur chaque composant, consultez les documents dé
 - [Déploiement en zone isolée](implementation/remote-deployment.md)
 - [Maintenance et mise à jour](implementation/maintenance.md)
 
-## API Reference
+## 🔌 API Reference
 
 RESILIA-GRID expose plusieurs APIs pour l'intégration avec d'autres systèmes:
 
@@ -84,7 +84,7 @@ RESILIA-GRID expose plusieurs APIs pour l'intégration avec d'autres systèmes:
 - [API Prédiction](api/prediction-api.md)
 - [API EnerShare](api/enershare-api.md)
 
-## FAQ
+## ❓ FAQ
 
 Consultez notre [Foire Aux Questions](faq.md) pour des réponses aux questions fréquemment posées sur RESILIA-GRID.
 
