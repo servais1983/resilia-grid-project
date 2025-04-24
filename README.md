@@ -1,6 +1,7 @@
 # RESILIA-GRID
 
-![RESILIA-GRID Logo](assets/images/resilia-grid-logo.png)
+![resilia](https://github.com/user-attachments/assets/20fdf52c-c871-4327-b8a0-12f5895ac456)
+
 
 **Réseau Énergétique Synergétique Intelligent et Localisé Intégrant l'IA pour un Avenir Résilient et Décarboné**
 
