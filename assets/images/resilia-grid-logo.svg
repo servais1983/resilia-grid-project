@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="200" viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fond du logo avec dégradé vert-bleu pour représenter durabilité et technologie -->
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3CB371;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1E90FF;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Fond arrondi -->
+  <rect x="10" y="10" rx="20" ry="20" width="380" height="180" fill="url(#grad1)" />
+  
+  <!-- Symbole de l'énergie (éclair) -->
+  <path d="M 100,60 L 80,100 L 110,100 L 90,140" stroke="#FFD700" stroke-width="8" fill="none" />
+  
+  <!-- Symbole de la feuille (vert) pour la durabilité -->
+  <path d="M 130,80 Q 150,60 170,80 T 170,120 Q 150,140 130,120 Q 110,100 130,80 Z" fill="#32CD32" />
+  
+  <!-- Cercle de réseau (représentant la grille) -->
+  <circle cx="230" cy="100" r="40" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-dasharray="5,5" />
+  
+  <!-- Lignes de connexion représentant le réseau intelligent -->
+  <line x1="190" y1="100" x2="210" y2="100" stroke="#FFFFFF" stroke-width="3" />
+  <line x1="250" y1="100" x2="270" y2="100" stroke="#FFFFFF" stroke-width="3" />
+  <line x1="230" y1="60" x2="230" y2="80" stroke="#FFFFFF" stroke-width="3" />
+  <line x1="230" y1="120" x2="230" y2="140" stroke="#FFFFFF" stroke-width="3" />
+  
+  <!-- Points de connexion -->
+  <circle cx="230" cy="100" r="5" fill="#FFFFFF" />
+  <circle cx="210" cy="100" r="5" fill="#FFFFFF" />
+  <circle cx="250" cy="100" r="5" fill="#FFFFFF" />
+  <circle cx="230" cy="80" r="5" fill="#FFFFFF" />
+  <circle cx="230" cy="120" r="5" fill="#FFFFFF" />
+  
+  <!-- Symbole AI (cerveau stylisé) -->
+  <path d="M 290,80 Q 310,60 330,80 Q 350,100 330,120 Q 310,140 290,120 Q 270,100 290,80 Z" fill="none" stroke="#FFFFFF" stroke-width="3" />
+  <path d="M 290,90 Q 310,100 330,90" fill="none" stroke="#FFFFFF" stroke-width="2" />
+  <path d="M 290,110 Q 310,100 330,110" fill="none" stroke="#FFFFFF" stroke-width="2" />
+  <line x1="310" y1="80" x2="310" y2="120" stroke="#FFFFFF" stroke-width="2" />
+  
+  <!-- Texte du logo -->
+  <text x="200" y="170" font-family="Arial" font-size="24" font-weight="bold" text-anchor="middle" fill="#FFFFFF">RESILIA-GRID</text>
+</svg>
