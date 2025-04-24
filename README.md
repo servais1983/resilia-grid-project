@@ -85,7 +85,7 @@ Face aux défis climatiques, à la volatilité des énergies fossiles et à la n
 - Standardisation des modules RESILIA-GRID pour l'export
 - Partnerships avec les pays en développement
 
-## Partners Clés et Financement
+## Partners Clés et Financement ex
 
 - **Public :** ADEME, Union Européenne (fonds Green Deal)
 - **Privé :** Startups de la GreenTech, fabricants de batteries (Northvolt), géants de l'IA (DeepMind)
